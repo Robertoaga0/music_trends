@@ -1,0 +1,295 @@
+año,genero,frecuencia
+2010,Desconocido,22
+2010,christmas,2
+2010,dancehall,1
+2010,drum and bass,1
+2010,edm,2
+2010,folk rock,1
+2010,indie,1
+2010,indonesian pop,1
+2010,latin alternative,1
+2010,latin pop,1
+2010,metalcore,1
+2010,mpb,1
+2010,nederpop,1
+2010,pagode,1
+2010,pagode baiano,1
+2010,pop,3
+2010,r&b,2
+2010,rap,6
+2010,soft pop,1
+2011,Desconocido,21
+2011,anime,1
+2011,art pop,2
+2011,baroque pop,2
+2011,blues,1
+2011,bolero,1
+2011,classical,1
+2011,country,1
+2011,edm,2
+2011,hip hop,2
+2011,latin pop,1
+2011,lullaby,1
+2011,melodic hardcore,1
+2011,mpb,1
+2011,nu metal,1
+2011,psychedelic rock,1
+2011,rap,3
+2011,reggae,1
+2011,rock en español,1
+2011,schlager,1
+2011,sertanejo,1
+2011,soft pop,3
+2012,Desconocido,27
+2012,bachata,1
+2012,bollywood,1
+2012,celtic,1
+2012,edm,1
+2012,flamenco pop,1
+2012,folk,1
+2012,folk pop,3
+2012,hip hop,1
+2012,metalcore,1
+2012,oyun havasi,1
+2012,post-disco,1
+2012,post-rock,2
+2012,rap,1
+2012,reggae,1
+2012,reggaeton,1
+2012,singer-songwriter,1
+2012,soft pop,1
+2012,southern gospel,3
+2013,Desconocido,22
+2013,children's music,1
+2013,christian,1
+2013,comedy,1
+2013,edm,2
+2013,folk pop,1
+2013,grunge,1
+2013,house,1
+2013,indie,4
+2013,jungle,1
+2013,modern rock,1
+2013,phleng phuea chiwit,1
+2013,pop punk,1
+2013,post-disco,2
+2013,rap,1
+2013,schlager,1
+2013,sertanejo tradicional,2
+2013,slowcore,1
+2013,soft pop,2
+2013,symphonic metal,1
+2013,thai pop,2
+2014,Desconocido,21
+2014,art pop,1
+2014,bangla pop,1
+2014,britpop,1
+2014,cantopop,1
+2014,edm,4
+2014,emo,1
+2014,folk pop,2
+2014,french pop,1
+2014,german hip hop,1
+2014,horrorcore,1
+2014,house,1
+2014,italo disco,7
+2014,mandopop,1
+2014,opera,1
+2014,pop,1
+2014,rap,2
+2014,schlager,1
+2014,soft pop,1
+2015,Desconocido,21
+2015,anime,1
+2015,avant-garde,1
+2015,brazilian hip hop,1
+2015,children's music,1
+2015,choral,1
+2015,classic rock,1
+2015,classical,1
+2015,country,1
+2015,east coast hip hop,1
+2015,edm,1
+2015,french pop,1
+2015,german pop,3
+2015,hip hop,1
+2015,indie,1
+2015,italian singer-songwriter,1
+2015,mandopop,1
+2015,minimal techno,1
+2015,neoclassical,1
+2015,pop,2
+2015,rap,1
+2015,reggae,1
+2015,retro soul,1
+2015,schlager,1
+2015,schlagerparty,1
+2015,soft pop,2
+2016,Desconocido,26
+2016,chamber pop,1
+2016,christmas,1
+2016,folk pop,1
+2016,future bass,1
+2016,german pop,2
+2016,hip hop,1
+2016,k-pop,1
+2016,mandopop,2
+2016,medieval,1
+2016,mollywood,1
+2016,neue deutsche welle,1
+2016,pop,2
+2016,rap,5
+2016,soft pop,2
+2016,soul,1
+2016,tropical house,1
+2017,Desconocido,25
+2017,brazilian pop,1
+2017,britpop,1
+2017,c-pop,1
+2017,country,1
+2017,cumbia,1
+2017,edm,1
+2017,electronica,1
+2017,folk pop,1
+2017,forró,1
+2017,french jazz,1
+2017,german hip hop,1
+2017,german pop,3
+2017,hip hop,3
+2017,latin pop,1
+2017,pinoy alternative,1
+2017,pop,1
+2017,rap,1
+2017,reggae,1
+2017,soft pop,2
+2017,trance,1
+2018,Desconocido,29
+2018,art pop,2
+2018,brazilian rock,1
+2018,classic rock,1
+2018,country,2
+2018,dancehall,1
+2018,devotional,1
+2018,emo rap,1
+2018,hip hop,1
+2018,mandopop,1
+2018,melodic rap,2
+2018,norwegian pop,1
+2018,opera,1
+2018,rap,4
+2018,soft pop,1
+2018,thai pop,1
+2019,Desconocido,34
+2019,bedroom pop,1
+2019,champeta,1
+2019,christmas,2
+2019,country,1
+2019,german hip hop,1
+2019,german pop,1
+2019,melodic rap,1
+2019,rap,1
+2019,sertanejo tradicional,1
+2019,soft pop,4
+2019,thai pop,2
+2020,Desconocido,32
+2020,country,2
+2020,flamenco,1
+2020,german hip hop,3
+2020,indie,1
+2020,kizomba,1
+2020,pop,1
+2020,r&b,1
+2020,rap,2
+2020,reggae,1
+2020,reggaeton,1
+2020,techno,1
+2020,thai pop,2
+2020,tropical house,1
+2021,Desconocido,30
+2021,bedroom pop,1
+2021,christmas,1
+2021,classical,2
+2021,iskelmä,1
+2021,italian trap,1
+2021,k-pop,1
+2021,piano house,1
+2021,reggaeton,1
+2021,reggaeton chileno,1
+2021,sertanejo,1
+2021,sholawat,1
+2021,soft pop,2
+2021,tamil indie,1
+2021,tech house,1
+2021,thai pop,1
+2021,thai rock,1
+2022,Desconocido,24
+2022,bedroom pop,1
+2022,cedm,2
+2022,city pop,1
+2022,classical,2
+2022,country,5
+2022,edm,1
+2022,folk pop,2
+2022,french house,1
+2022,german pop,1
+2022,idm,1
+2022,indie,1
+2022,italian singer-songwriter,1
+2022,melodic rap,1
+2022,post-punk,1
+2022,psychedelic pop,1
+2022,r&b,1
+2022,rage rap,1
+2022,t-pop,1
+2022,thai pop,1
+2023,Desconocido,28
+2023,anime,1
+2023,children's music,1
+2023,country,3
+2023,egyptian hip hop,2
+2023,electroclash,3
+2023,folk pop,2
+2023,gospel,3
+2023,house,1
+2023,nightcore,1
+2023,nova mpb,1
+2023,phleng phuea chiwit,1
+2023,post-disco,1
+2023,reggae,1
+2023,rkt,1
+2024,Desconocido,26
+2024,afrobeats,1
+2024,agronejo,1
+2024,argentine trap,2
+2024,art pop,1
+2024,bedroom pop,1
+2024,bollywood,1
+2024,boom bap,1
+2024,country,2
+2024,gospel,1
+2024,grime,1
+2024,hip hop,2
+2024,house,1
+2024,k-pop,2
+2024,kizomba,1
+2024,melodic rap,2
+2024,pop urbaine,1
+2024,post-punk,1
+2024,shoegaze,1
+2024,soft pop,1
+2025,Desconocido,35
+2025,art pop,1
+2025,bluegrass,1
+2025,blues,1
+2025,brooklyn drill,1
+2025,country,1
+2025,gujarati pop,1
+2025,indie folk,1
+2025,mizrahi,1
+2025,northern soul,1
+2025,opm,1
+2025,post-punk,1
+2025,rap,1
+2025,reggaeton,1
+2025,southern gospel,1
+2025,uk drill,1
